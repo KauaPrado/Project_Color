@@ -148,6 +148,7 @@ COLOR_NAMES = {
     (245, 245, 245): "white smoke",
     (255, 255, 0): "yellow",
     (154, 205, 50): "yellow green"
+    
 }
 
 def closest_color(requested_color):
